@@ -1,5 +1,5 @@
 alert("u ded");
-app_vars['counter_value'] = '5';
+app_vars['counter_value'] = '20';
 if (function(t, e) {
         "object" == typeof module && "object" == typeof module.exports ? module.exports = t.document ? e(t, !0) : function(t) {
             if (!t.document) throw new Error("jQuery requires a window with a document");
